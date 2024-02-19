@@ -32,33 +32,33 @@ Recording of the lectures will be made available on SwitchTube. We will reuse so
 | Week        | Date                 |  Topic                                                                                                                      |  Instructor                                |
 |:------------|:---------------------|:----------------------------------------------------------------------------------------------------------------------------|:------------------------------------------:|
 | **Week 1**  | 21 Feb <br />22 Feb  |  Introduction &#124; Building a simple neural classifier  <br />Neural LMs: word embeddings  |  Antoine Bosselut                   	    |
-|             |                      |                                                                                                                             |                                                          |                                     	    |
+|             |                      |                                                                                                                             |                                      	    |
 | **Week 2**  |  28 Feb <br />29 Feb   |  LM basics &#124; Neural LMs: Fixed Context Models <br />Neural LMs: RNNs, Backpropagation, Vanishing Gradients; LSTMs     |  Antoine Bosselut                   		|
-|             |                      |                                                                                                                             |                                                          |                                     		|
+|             |                      |                                                                                                                             |                                      	    |
 | **Week 3**  |  6 Mar <br />7 Mar   |  Seq2seq + decoding + attention &#124; Transformers<br />Transformers + Greedy Decoding; GPT |  Antoine Bosselut  		|
-|             |                      |                                                                                                                             |                                                          |                                     		|
+|             |                      |                                                                                                                             |                                      	    |
 | **Week 4**  | 13 Mar <br />14 Mar  |  Pretraining: ELMo, BERT, MLM, task generality &#124; Transfer Learning: Introduction <br />Pretraining S2S: BART, T5    |  Antoine Bosselut                   		|
-|             |                      |                                                                                                                             |                                                          |                                     		|
+|             |                      |                                                                                                                             |                                      	    |
 | **Week 5**  | 20 Mar <br />21 Mar  |  Transfer Learning: Dataset Biases  <br />Generation: Task    |  Antoine Bosselut                   		|
-|             |                      |                                                                                                                             |                                                          |                                     		|
+|             |                      |                                                                                                                             |                                      	    |
 | **Week 6**  | 27 Mar <br />28 Mar  |  Generation: Decoding and Training  <br />Generation: Evaluation  |  Antoine Bosselut                   		|
-|             |                      |                                                                                                                             |                                                          |                                     		|
-|             |                      |  ***EASTER BREAK***                                                                                                         |                                                          |                                     		|
-|             |                      |                                                                                                                             |                                                          |                                     		|
+|             |                      |                                                                                                                             |                                      	    |
+|             |                      |  ***EASTER BREAK***                                                                                                       |                                     		|
+|             |                      |                                                                                                                             |                                      	    |
 | **Week 7**  |  10 Apr  <br />11 Apr  |  In-context Learning - GPT-3 + Prompts &#124; Instruction Tuning<br />Project Description    |  Antoine Bosselut                   		|
-|             |                      |                                                                                                                             |                                                          |                                     		|
+|             |                      |                                                                                                                             |                                      	    |
 | **Week 8**  | 17 Apr <br />18 Apr  |  Ethics in NLP: Bias / Fairness and Toxicity, Privacy, Disinformation <br />**No class** (Project work; A1 Grade Review Session)    |  Anna Sotnikova                   		|
-|             |                      |                                                                                                                             |                                                          |                                     		|
+|             |                      |                                                                                                                             |                                      	    |
 | **Week 9** | 24 Apr <br />25 Apr  |  Scaling laws &#124; Model Compression <br />**No class** (Project work; A1 Grade Review Session)    |  Antoine Bosselut <br /> 		|
-|             |                      |                                                                                                                             |                                                          |                                     		|
+|             |                      |                                                                                                                             |                                      	    |
 | **Week 10** |  1 May <br />2 May   |  Tokenization: BPE, WP, Char-based &#124; Multilingual LMs <br />Guest Lecture: Kayo Yin  |  Negar Foroutan <br /> Kayo Yin                 		|
-|             |                      |                                                                                                                             |                                                          |                                     		|
+|             |                      |                                                                                                                             |                                      	    |
 | **Week 11** | 8 May <br />9 May  |  Syntactic and Semantic Tasks (NER) &#124; Interpretability: BERTology <br />**No class** (Project work; A2 Grade Review Session) |  Gail Weiss                   		|
-|             |                      |                                                                                                                             |                                                          |                                     		|
+|             |                      |                                                                                                                             |                                      	    |
 | **Week 12** | 15 May <br />16 May  |  Reading Comprehension &#124; Retrieval-augmented LMs <br />**No class** (Project work; A2 Grade Review Session) |  Antoine Bosselut   |
-|             |                      |                                                                                                                             |                                                          |                                        		|
+|             |                      |                                                                                                                             |                                      	    |
 | **Week 13** | 22 May <br />23 May  |  Multimodality: L & V <br />Looking forward   |  Syrielle Montariol <br />Antoine Bosselut                       		|
-|             |                      |                                                                                                                             |                                                          |                                    		    |
+|             |                      |                                                                                                                             |                                      	    |
 | **Week 14** | 29 May <br />30 May   |  **No class** (Project work; A3 Grade Review Session) |    |
 
 
@@ -161,7 +161,7 @@ All assignments and milestones are due at 23:59 on their due date. As we underst
 <a name="contact"></a>
 ## Contacts
 
-**Lecturer**: [Antoine Bosselut](https://people.epfl.ch/antoine.bosselut).
+**Lecturer**: [Antoine Bosselut](https://people.epfl.ch/antoine.bosselut)
 
 **Teaching assistants**: [Badr AlKhamissi](https://people.epfl.ch/badr.alkhamissi), [Deniz Bayazit](https://people.epfl.ch/deniz.bayazit?lang=en), [Beatriz Borges](https://people.epfl.ch/beatriz.borges), [Zeming (Eric) Chen](https://people.epfl.ch/zeming.chen?lang=en), [Simin Fan](https://people.epfl.ch/simin.fan?lang=en), [Negar Foroutan Eghlidi](https://people.epfl.ch/negar.foroutan), [Silin Gao](https://people.epfl.ch/silin.gao?lang=en), [Mete Ismayilzada](https://people.epfl.ch/mahammad.ismayilzada)
 
