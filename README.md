@@ -22,7 +22,7 @@ Natural language processing is ubiquitous in modern intelligent technologies, se
 | Forum              						| Ed Forum [[link](https://edstem.org/eu/courses/379/discussion/)]                                       													   | 
 | Moodle             						| Annoucements [[link](https://moodle.epfl.ch/course/view.php?id=17143)]              																		   |
 
-All lectures will be given in person and live streamed on Zoom. The link to the Zoom is available on the course Moodle page. Beware that, in the event of a technical failure during the lecture, continuing to accompany the lecture live via zoom might not be possible.
+All lectures will be given in person and live streamed on Zoom. The link to the Zoom is available on the Ed Forum (pinned post). Beware that, in the event of a technical failure during the lecture, continuing to accompany the lecture live via zoom might not be possible.
 
 Recording of the lectures will be made available on SwitchTube. We will reuse some of last year's recordings and we may record a few new lectures in case of different lecture contents.
 
