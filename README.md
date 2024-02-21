@@ -133,7 +133,7 @@ There will be three assignments throughout the course. They will be released and
 - Grade released: 19 May 2024
 - Grade review sessions: 29 and 30 May 2024
 
-Assignments will be released and announced on Moodle and Ed.
+Assignment releases will be announced on Ed.
 
 ### Project (60%):
 The project will be divided into 2 milestones and a final submission. Each milestone will be worth 15% of the final grade with the remaining 30% being allocated to the final report. Each team will be supervised by one of the course TAs or AEs. 
