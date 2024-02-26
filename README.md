@@ -114,21 +114,21 @@ There will be three assignments throughout the course. They will be released and
 
 #### Assignment 1 (10%)
 <!-- Link for the assignment [here][1a]. -->
-- Released: 26 February 2024
+- Released: 28 February 2024
 - Due: 17 March 2024
 - Grade released: 14 April 2024
 - Grade review sessions: 18 and 25 April 2024
 
 #### Assignment 2 (15%)
 <!-- Link for the assignment [here][2a]. -->
-- Released: 18 March 2024
+- Released: 20 March 2024
 - Due: 7 April 2024
 - Grade released: 5 May 2024
 - Grade review sessions: 9 and 16 May 2024
 
 #### Assignment 3 (15%)
 <!-- Link for the assignment [here][3a]. -->
-- Released: 1 April 2024
+- Released: 3 April 2024
 - Due: 21 April 2024
 - Grade released: 19 May 2024
 - Grade review sessions: 29 and 30 May 2024
